@@ -7,7 +7,6 @@
   <br />
   <p>
     <a href="https://discord.gg/d2AaGm4"><img src="https://img.shields.io/discord/696492359004979281?color=7289DA&label=DISCORD&logo=DISCORD&style=for-the-badge" alt="Discord server" /></a>
-    <a href="https://app.fossa.io/projects/git%2Bgithub.com%2FMishify%2FMishify?ref=badge_shield"><img src="https://img.shields.io/github/license/TheHuskyBot/Husky?logo=Pinboard&style=for-the-badge" alt="LICENSE" /></a>
   <a href="https://github.com/TheHuskyBot/Husky/"><img src="https://img.shields.io/github/package-json/v/TheHuskyBot/Husky?logo=Pinboard&style=for-the-badge" alt="Husky version" /></a>
   <a href="https://github.com/TheHuskyBot/Husky/graphs/contributors"><img src="https://img.shields.io/github/contributors/TheHuskyBot/Husky.svg?logo=Github&style=for-the-badge" alt="Contributors" /></a>
   
