@@ -25,7 +25,7 @@ Husky, el bot de Discord creado por Phamzito Y Gátomo
 
 El bot tiene un prefijo que al ser escrito con su comando *hace magia*🧙‍♂️🧙‍♀️
 
-Su prefijo es `-`
+Su prefijo es `-` 
 
 *nota: estará proximamente en top.gg*
 
