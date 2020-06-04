@@ -47,8 +47,8 @@ Pues vamos con los puntos para empezar a usarlo
 ## Información
 * Lenguaje: Typescript
 * Licencia: MIT
-* Versión: Sin versión
-* Estado: En desarrollo, sin versión oficial
+* Versión: V. 0.0.6 a
+* Estado: En desarrollo
 * Devs: Phamzito y Gátomo
 * Framework: Klasa
 
