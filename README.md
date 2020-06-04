@@ -59,7 +59,3 @@ En caso de que necesites contactar con algún dev, te dejamos los siguientes enl
 
 * [Phamzito (Husky Community)](https://discord.gg/DpNgRU2)
 * [Gátomo sad (Gátomo Community 🧪)](https://discord.gg/Pg3eeyN)
-
-
-## Escaneo de Fossa (ni idea de para que sirve)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMishify%2FMishify.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FMishify%2FMishify?ref=badge_large)
