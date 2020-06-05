@@ -30,7 +30,7 @@ Su prefijo es `-`
 
 ## ¿Quiénes lo desarrollan?
 
-Actualmente lo desarrollan Phamzito , Gátomo Cactus_Random (*el pancito , el gatito sad y el cactus super feliz*) 🍞🐱‍💻😸🌵
+Actualmente lo desarrollan Phamzito , Gátomo Cactus_Random (*el pancito , el gatito y el cactus super feliz*) 🍞🐱‍💻😸🌵
 
 * [Phamzito (creador)](https://github.com/Phamzito)
 * [Gátomo (Web, documantación, etc.)](https://github.com/gatomo-oficial)
@@ -57,4 +57,4 @@ Pues vamos con los puntos para empezar a usarlo
 En caso de que necesites contactar con algún dev, te dejamos los siguientes enlaces hacia sus servers de Discord. Puedes resolver dudas o sugerir ideas, pero cumple siempre las normas y habla con educación.
 
 * [Phamzito (Husky Community)](https://discord.gg/DpNgRU2)
-* [Gátomo sad (Gátomo Community 🧪)](https://discord.gg/Pg3eeyN)
+* [Gátomo (Gátomo Community 🧪)](https://discord.gg/Pg3eeyN)
